@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 Welcome! my name is Futsum<br>
+<h1 align="center">Hi 👋 Welcome! This is Futsum<br>
 <h3 align="center"> Passionate a Front-end developer and Cloud practitioner. </h3></h1>
 
 <p align="center">
