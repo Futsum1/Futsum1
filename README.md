@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 Welcome! This is Futsum<br>
-<h3 align="center"> Passionate a Front-end developer and Cloud practitioner. </h3></h1>
+<h3 align="center"> Passionate Front-End developer and AWS cloud certified. </h3></h1>
 
 <p align="center">
 <img  alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p>I am a enthusiasm developer I’ve been coding and learning new languages as quickly as possible and desire to learn and grow as a developer. If you have an open-source project that could use a junior developer, please don't hesitate to reach out.</p>
+<p>I'm an enthusiastic developer passionate about learning and expanding my coding skills. I'm eager to contribute to open-source projects as a junior developer. Feel free to reach out if you have any opportunities</p>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=futsum1&label=Profile%20views&color=0e75b6&style=flat" alt="futsum1" /> </p>
