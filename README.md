@@ -3,7 +3,7 @@
 
 <p align="center">
 <img  alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p>I'm an enthusiastic developer passionate about learning and expanding my coding skills. I'm eager to contribute to open-source projects as a junior developer. Feel free to reach out if you have any opportunities</p>
+<p>I'm a curious and motivated developer with a growing passion for front-end development and product design. I enjoy learning by building and love improving my skills through hands-on projects. I'm currently open to contributing to open-source and collaborating on meaningful work. Feel free to reach out if you’re working on something interesting!</p>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=futsum1&label=Profile%20views&color=0e75b6&style=flat" alt="futsum1" /> </p>
