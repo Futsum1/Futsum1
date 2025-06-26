@@ -8,13 +8,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=futsum1&label=Profile%20views&color=0e75b6&style=flat" alt="futsum1" /> </p>
 
-- 🌱 I’m currently learning **DevOps methodology & Key principles culture of collaboration.**
-
-- 💬 Ask me about **Front-End Developer and AWS Fundamental.**
-
+- 🎨 Passionate about **Front-end** development and user-centered **product design**.
+- 💬 Ask me about **HTML, CSS, JavaScript, React**, and **product design** basics.
 - 📫 How to reach me **futsumnemariam2@gmail.com**
-
-- ⚡ Fun fact **I love sports**
+- ⚡ Fun fact I love sports.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
